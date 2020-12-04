@@ -1,6 +1,6 @@
 ![Vega Bounties](https://repository-images.githubusercontent.com/316258610/966d2c00-30d0-11eb-9930-def1a8a6c0e3)
 
-## Help build on Vega and receive bounty rewards
+## Help build on the Vega testnet and receive bounty rewards
 
 Vega is a proof of stake blockchain for creating and trading derivatives. It provides infrastructure for decentralised markets that settle in assets held on Ethereum, and in future also Bitcoin and other major collateral blockchains. Vega facilitates high speed, permissionless derivatives markets. 
 
