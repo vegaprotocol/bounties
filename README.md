@@ -14,11 +14,11 @@ The Vega public testnet showcases our technology and we are looking for passiona
 
 - [Vega API Sample Scripts](https://github.com/vegaprotocol/sample-api-scripts/)
 
-- [Vega Gitcoin organisation](https://gitcoin.co/vegaprotocol)
-
 - [Vega Discord chat](https://vega.xyz/discord)
 
 - [Join our Community Forum](https://community.vega.xyz)
+
+- [Vega Gitcoin organisation](https://gitcoin.co/vegaprotocol)
 
 - Follow us online: [Twitter](https://twitter.com/vegaprotocol) [LinkedIn](https://www.linkedin.com/company/vega-protocol) [Medium](https://medium.com/vegaprotocol) 
 
