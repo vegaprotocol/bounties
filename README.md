@@ -22,4 +22,4 @@ The Vega public testnet showcases our technology and we are looking for passiona
 
 - Follow us online: [Twitter](https://twitter.com/vegaprotocol) [LinkedIn](https://www.linkedin.com/company/vega-protocol) [Medium](https://medium.com/vegaprotocol) 
 
-- [Vega website](https://vega.xyz)
+- [Vega.xyz](https://vega.xyz)
