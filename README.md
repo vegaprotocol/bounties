@@ -2,8 +2,6 @@
 
 ## Help build on Vega and receive bounty rewards
 
-------
-
 Vega is a proof of stake blockchain for creating and trading derivatives. It provides infrastructure for decentralised markets that settle in assets held on Ethereum, and in future also Bitcoin and other major collateral blockchains. Vega facilitates high speed, permissionless derivatives markets. 
 
 The Vega public testnet showcases our technology and we are looking for passionate and talented members of the community to help us build out the vision by working with us to shape the end product.
@@ -14,16 +12,14 @@ The Vega public testnet showcases our technology and we are looking for passiona
 
 - [Vega Documentation](https://docs.testnet.vega.xyz)
 
-- [Vega API Samples](https://github.com/vegaprotocol/sample-api-scripts/tree/v0.19.0/)
+- [Vega API Sample Scripts](https://github.com/vegaprotocol/sample-api-scripts/)
 
 - [Vega Gitcoin organisation](https://gitcoin.co/vegaprotocol)
 
-- [Vega Discord chat](https://discord.gg/bkAF3Tu)
-
-- [Request access to our Testnet](https://vega.xyz/email/testnet-signup)
+- [Vega Discord chat](https://vega.xyz/discord)
 
 - [Join our Community Forum](https://community.vega.xyz)
 
-- Follow us online: [Twitter](https://twitter.com/vegaprotocol) [LinkedIn](https://www.linkedin.com/company/vega-protocol) [Medium](https://medium.com/vegaprotocol) [AngelList](https://angel.co/company/vega-protocol)
+- Follow us online: [Twitter](https://twitter.com/vegaprotocol) [LinkedIn](https://www.linkedin.com/company/vega-protocol) [Medium](https://medium.com/vegaprotocol) 
 
-- [Our website](https://vega.xyz)
+- [Vega website](https://vega.xyz)
