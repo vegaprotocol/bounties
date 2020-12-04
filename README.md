@@ -14,7 +14,7 @@ The Vega public testnet showcases our technology and we are looking for passiona
 
 - [Vega API Sample Scripts](https://github.com/vegaprotocol/sample-api-scripts/)
 
-- [Vega Discord chat](https://vega.xyz/discord)
+- [Vega Discord Chat](https://vega.xyz/discord)
 
 - [Join our Community Forum](https://community.vega.xyz)
 
