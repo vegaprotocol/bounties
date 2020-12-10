@@ -15,11 +15,11 @@ The Vega public testnet showcases our technology and we are looking for passiona
 | **[Integrate Vega with 3rd party crypto trading exchange libraries](https://github.com/vegaprotocol/bounties/issues/1)** | 2001 DAI |
 | **[Web app to visualise and manage Vega Governance proposals](https://github.com/vegaprotocol/bounties/issues/2)** | 801 DAI |
 
+-------
 
 ### Bounty tasks (past)
 
 * None
-
 
 -------
 
