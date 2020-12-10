@@ -6,7 +6,11 @@ Vega is a proof of stake blockchain for creating and trading derivatives. It pro
 
 The Vega public testnet showcases our technology and we are looking for passionate and talented members of the community to help us build out the vision by working with us to shape the end product.
 
-| Bounty tasks (current)  |
+-------
+
+## Bounty tasks (current)
+
+|  |
 |-------|
 | [Integrate Vega with 3rd party crypto trading exchange libraries (2001 DAI)](https://github.com/vegaprotocol/bounties/issues/1) |
 | [Web app to visualise and manage Vega Governance proposals (801 DAI)](https://github.com/vegaprotocol/bounties/issues/2) |
