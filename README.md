@@ -8,7 +8,7 @@ The Vega public testnet showcases our technology and we are looking for passiona
 
 -------
 
-## Bounty tasks (current)
+### Bounty tasks (current)
 
 | Coding / Engineering / APIs |
 |-------|
