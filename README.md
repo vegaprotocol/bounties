@@ -25,6 +25,8 @@ The Vega public testnet showcases our technology and we are looking for passiona
 
 -------
 
+- [Vega.xyz](https://vega.xyz)
+
 - [Vega Whitepaper](https://vega.xyz/papers/vega-protocol-whitepaper.pdf) / [Technical overview](https://vega.xyz/assets/vega-technical-overview.pdf)
 
 - [Vega Documentation](https://docs.testnet.vega.xyz)
@@ -39,4 +41,3 @@ The Vega public testnet showcases our technology and we are looking for passiona
 
 - Follow us online: [Twitter](https://twitter.com/vegaprotocol) [LinkedIn](https://www.linkedin.com/company/vega-protocol) [Medium](https://medium.com/vegaprotocol) 
 
-- [Vega.xyz](https://vega.xyz)
