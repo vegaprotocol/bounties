@@ -1,4 +1,4 @@
-![Vega Bounties](https://repository-images.githubusercontent.com/316258610/966d2c00-30d0-11eb-9930-def1a8a6c0e3)
+![Vega Bounties](https://user-images.githubusercontent.com/149245/102112265-5e374e80-3e2f-11eb-88c6-61181f817f35.png)
 
 ## Help build on the Vega testnet and receive bounty rewards
 
