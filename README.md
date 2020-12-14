@@ -19,7 +19,9 @@ The Vega public testnet showcases our technology and we are looking for passiona
 
 ### Bounty tasks (past)
 
-* None
+| Coding / Engineering / APIs | Awarded |
+|-------|-------|
+| **[Use Vega’s APIs to build a command and control app for traders](https://github.com/vegaprotocol/0x955C6789A7fbee203B4bE0F01428E769308813f2/issues/1)**  | 501 DAI ([@cryptowhaler](https://github.com/cryptowhaler)) |
 
 -------
 
