@@ -10,10 +10,10 @@ The Vega public testnet showcases our technology and we are looking for passiona
 
 ### Bounty tasks (current)
 
-| Coding / Engineering / APIs | Reward |
-|-------|-------|
-| **[Integrate Vega with 3rd party crypto trading exchange libraries](https://github.com/vegaprotocol/bounties/issues/1)** | 2001 DAI |
-| **[Web app to visualise and manage Vega Governance proposals](https://github.com/vegaprotocol/bounties/issues/2)** | 801 DAI |
+| Coding / Engineering / APIs | Reward | Status |
+|-------|-------|-------|
+| **[Integrate Vega with 3rd party crypto trading exchange libraries](https://github.com/vegaprotocol/bounties/issues/1)** | 2001 DAI | In progress |
+| **[Web app to visualise and manage Vega Governance proposals](https://github.com/vegaprotocol/bounties/issues/2)** | 801 DAI | In progress |
 
 -------
 
