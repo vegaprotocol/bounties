@@ -12,8 +12,8 @@ The Vega public testnet showcases our technology and we are looking for passiona
 
 | Coding / Engineering / APIs | Reward | Status |
 |-------|-------|-------|
+| **[Send real-time updates from Vega's testnet to Telegram, Discord and Twitter ](https://github.com/vegaprotocol/bounties/issues/3)** | 701 DAI | Available |
 | **[Integrate Vega with 3rd party crypto trading exchange libraries](https://github.com/vegaprotocol/bounties/issues/1)** | 2001 DAI | In progress |
-| **[Web app to visualise and manage Vega Governance proposals](https://github.com/vegaprotocol/bounties/issues/2)** | 801 DAI | In progress |
 
 -------
 
@@ -22,6 +22,7 @@ The Vega public testnet showcases our technology and we are looking for passiona
 | Coding / Engineering / APIs | Awarded |
 |-------|-------|
 | **[Use Vega’s APIs to build a command and control app for traders](https://github.com/vegaprotocol/0x955C6789A7fbee203B4bE0F01428E769308813f2/issues/1)**  | [@cryptowhaler](https://github.com/cryptowhaler) |
+| **[Web app to visualise and manage Vega Governance proposals](https://github.com/vegaprotocol/bounties/issues/2)**  | [@ abdelhamidbakhta](https://github.com/abdelhamidbakhta) |
 
 -------
 
