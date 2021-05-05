@@ -12,6 +12,7 @@ The Vega public testnet showcases our technology and we are looking for passiona
 
 | Coding / Engineering / APIs | Reward | Status |
 |-------|-------|-------|
+| **[Build a creative and simple web-based trading front end using Vega's APIs](https://github.com/vegaprotocol/bounties/issues/8)** | 10000 DAI | In progress |
 | **[Connect Vega to Microsoft Excel or Google Sheets](https://github.com/vegaprotocol/bounties/issues/5)** | 701 DAI | Available |
 | **[Vega GraphQL guides with walk-through app](https://github.com/vegaprotocol/bounties/issues/6)** | 1501 DAI | In Progress |
 | **[Integrate Vega with XChange trading exchange API library](https://github.com/vegaprotocol/bounties/issues/4)** | 2001 DAI | Available |
