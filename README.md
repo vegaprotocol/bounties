@@ -12,11 +12,13 @@ The Vega public testnet showcases our technology and we are looking for passiona
 
 | Coding / Engineering / APIs | Reward | Status |
 |-------|-------|-------|
-| **[Build a creative and simple web-based trading front end using Vega's APIs](https://github.com/vegaprotocol/bounties/issues/8)** | 10000 DAI | In progress |
-| **[Vega GraphQL guides with walk-through app](https://github.com/vegaprotocol/bounties/issues/6)** | 1501 DAI | In Progress |
-| **[Integrate Vega with XChange trading exchange API library](https://github.com/vegaprotocol/bounties/issues/4)** | 2001 DAI | In Progress |
+| **[Vega GraphQL guides with walk-through app](https://github.com/vegaprotocol/bounties/issues/6)** | 1501 DAI | Available |
+| **[Integrate Vega with XChange trading exchange API library](https://github.com/vegaprotocol/bounties/issues/4)** | 2001 DAI | Available |
 | **[Integrate Vega with CCXT trading exchange API library](https://github.com/vegaprotocol/bounties/issues/1)** | 2001 DAI | Available |
-| **[Send real-time updates from Vega's testnet to Telegram, Discord and Twitter](https://github.com/vegaprotocol/bounties/issues/3)** | 701 DAI | In progress |
+
+
+
+
 
 -------
 
@@ -24,6 +26,8 @@ The Vega public testnet showcases our technology and we are looking for passiona
 
 | Coding / Engineering / APIs | Awarded |
 |-------|-------|
+| **[Build a creative and simple web-based trading front end using Vega's APIs](https://github.com/vegaprotocol/bounties/issues/8)** | [@0xkarl](https://github.com/0xkarl) |
+| **[Send real-time updates from Vega's testnet to Telegram, Discord and Twitter](https://github.com/vegaprotocol/bounties/issues/3)** | [@baldator](https://github.com/baldator) |
 | **[Use Vega’s APIs to build a command and control app for traders](https://github.com/vegaprotocol/0x955C6789A7fbee203B4bE0F01428E769308813f2/issues/1)**  | [@cryptowhaler](https://github.com/cryptowhaler) |
 | **[Web app to visualise and manage Vega Governance proposals](https://github.com/vegaprotocol/bounties/issues/2)**  | [@abdelhamidbakhta](https://github.com/abdelhamidbakhta) |
 
