@@ -14,7 +14,7 @@ The Vega public testnet showcases our technology and we are looking for passiona
 |-------|-------|-------|
 | **[Vega GraphQL guides with walk-through app](https://github.com/vegaprotocol/bounties/issues/6)** | 1501 DAI | Available |
 | **[Integrate Vega with XChange trading exchange API library](https://github.com/vegaprotocol/bounties/issues/4)** | 2001 DAI | Available |
-| **[Integrate Vega with CCXT trading exchange API library](https://github.com/vegaprotocol/bounties/issues/1)** | 2001 DAI | Available |
+| **[Integrate Vega with CCXT trading exchange API library](https://github.com/vegaprotocol/bounties/issues/1)** | 2001 DAI | In Progress |
 
 
 
