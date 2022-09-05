@@ -12,13 +12,8 @@ The Vega public testnet showcases our technology and we are looking for passiona
 
 | Coding / Engineering / APIs | Reward | Status |
 |-------|-------|-------|
-| **[Vega GraphQL guides with walk-through app](https://github.com/vegaprotocol/bounties/issues/6)** | 1501 DAI | Available |
 | **[Integrate Vega with XChange trading exchange API library](https://github.com/vegaprotocol/bounties/issues/4)** | 2001 DAI | Available |
-| **[Integrate Vega with CCXT trading exchange API library](https://github.com/vegaprotocol/bounties/issues/1)** | 2001 DAI | In Progress |
-
-
-
-
+]
 
 -------
 
@@ -26,6 +21,7 @@ The Vega public testnet showcases our technology and we are looking for passiona
 
 | Coding / Engineering / APIs | Awarded |
 |-------|-------|
+| **[Integrate Vega with CCXT trading exchange API library](https://github.com/vegaprotocol/bounties/issues/1)** | [@0xkarl](https://github.com/0xkarl) |
 | **[Build a creative and simple web-based trading front end using Vega's APIs](https://github.com/vegaprotocol/bounties/issues/8)** | [@0xkarl](https://github.com/0xkarl) |
 | **[Send real-time updates from Vega's testnet to Telegram, Discord and Twitter](https://github.com/vegaprotocol/bounties/issues/3)** | [@baldator](https://github.com/baldator) |
 | **[Use Vega’s APIs to build a command and control app for traders](https://github.com/vegaprotocol/0x955C6789A7fbee203B4bE0F01428E769308813f2/issues/1)**  | [@cryptowhaler](https://github.com/cryptowhaler) |
@@ -35,15 +31,15 @@ The Vega public testnet showcases our technology and we are looking for passiona
 
 - [Vega.xyz](https://vega.xyz)
 
-- [Vega Whitepaper](https://vega.xyz/papers/vega-protocol-whitepaper.pdf) / [Technical overview](https://vega.xyz/assets/vega-technical-overview.pdf)
+- [Vega Whitepaper](https://vega.xyz/papers/vega-protocol-whitepaper.pdf)
 
-- [Vega Documentation](https://docs.testnet.vega.xyz)
+- [Vega Documentation](https://docs.vega.xyz)
 
 - [Vega API Sample Scripts](https://github.com/vegaprotocol/sample-api-scripts/)
 
 - [Vega Discord Chat](https://vega.xyz/discord)
 
-- [Join our Community Forum](https://community.vega.xyz)
+- [Check out the Vega Protocol Linktree](https://linktr.ee/vegaprotocol)
 
 - [Vega Gitcoin organisation](https://gitcoin.co/vegaprotocol)
 
