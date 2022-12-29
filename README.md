@@ -12,8 +12,6 @@ The Vega public testnet showcases our technology and we are looking for passiona
 
 | Coding / Engineering / APIs | Reward | Status |
 |-------|-------|-------|
-| **[Integrate Vega with XChange trading exchange API library](https://github.com/vegaprotocol/bounties/issues/4)** | 2001 DAI | Available |
-
 
 -------
 
