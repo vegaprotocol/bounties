@@ -12,7 +12,7 @@ The Vega public testnet showcases our technology and we are looking for passiona
 
 | Coding / Engineering / APIs | Reward | Status |
 |-------|-------|-------|
-| **[Build a Creative Data Visualisation using Vega's APIs](https://github.com/vegaprotocol/bounties/issues/12)** | Up to 1000 DAI |
+| **[Build a Creative Data Visualisation using Vega's APIs](https://github.com/vegaprotocol/bounties/issues/12)** | Up to 1000 DAI | Active
 
 -------
 
