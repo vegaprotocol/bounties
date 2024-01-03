@@ -1,3 +1,8 @@
+> [!CAUTION]
+> This repository is archived as there are no current open bounties.
+> 
+> **To hear about any future bounties, please [join Vega's Discord](http://vega.xyz/discord).**
+
 ![Vega Bounties](https://user-images.githubusercontent.com/149245/102112265-5e374e80-3e2f-11eb-88c6-61181f817f35.png)
 
 ## Help build on the Vega testnet and receive bounty rewards
